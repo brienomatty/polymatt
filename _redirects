@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://dazzling-torvalds-e56f39.netlify.com/* http://www.polymatt.io/:splat 301!
