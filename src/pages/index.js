@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Polymatt Home" keywords={[`gatsby`, `application`, `react`, `jane`, `polymath`, `polymatt`]} />
-    <h1>This is my first 'blog post'. HI JANE :) </h1>
+    <h1>This is my first 'blog post'. </h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
